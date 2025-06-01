@@ -4,7 +4,7 @@ const restartButton = document.getElementById("restartButton");
 
 // Use your uploaded image file paths
 const player1Image = "bear.png";     // Replace with your bear filename
-const player2Image = "kitten.png";   // Replace with your kitten filename
+const player2Image = "Kitten.png";   // Replace with your kitten filename
 
 let isPlayer1Turn = true;
 
